@@ -20,9 +20,9 @@ Learn How to Create a Full Stack Grocery Delivery E-commerce website using **Mon
 
 ---
 
-## 🧠 What You'll Learn
+## 🧠 What I developing
 
-In this project, you'll build and deploy a complete grocery delivery platform, starting from the UI all the way to backend APIs and payments:
+In this project, I'll build and deploy a complete grocery delivery platform, starting from the UI all the way to backend APIs and payments:
 
 - Build a modern e-commerce UI with **React** and **Tailwind CSS**
 - Implement product listing and ordering features for customers
